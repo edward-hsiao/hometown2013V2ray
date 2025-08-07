@@ -1,7 +1,9 @@
-trojan://3085a7f3-935e-4a74-a0d1-3fd3342a8018@edwardubuntu.duckdns.org:2000?security=tls&headerType=none&type=tcp#edwardubuntu-trojan
-vmess://eyJhZGQiOiJlZHdhcmR1YnVudHUuZHVja2Rucy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlZGU4OTctNWMzNi00MDdmLThkOTUtMTMyMjQzNTAxNTY3IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQwMDAiLCJwcyI6ImVkd2FyZHVidW50dS13cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://9df4a50f-046a-44f1-b341-08c6705ab28a@edwardubuntu.duckdns.org:18000?security=reality&encryption=none&pbk=Vwcx1m3G6OzMkHpFe5N3QC55AkudJUJjKYR2icMpoiI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#edwardubuntu-reality
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@edwardubuntu.duckdns.org:801#233boy-ss-edwardubuntu.duckdns.org
+trojan://97394d3a-c4f5-4068-8944-4b9641fb6e65@fnp5-1.duckdns.org:201?type=tcp&security=tls&allowInsecure=1#fnp5-1-trojan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@fnp5-1.duckdns.org:801#fnp5-1-ss
+vless://2e6dc3e1-6ebd-4013-aca1-59f098d7f0e9@fnp5-1.duckdns.org:19000?encryption=none&security=reality&flow=&type=h2&sni=aws.amazon.com&pbk=b0t4rnf5g08YFjGkX1SD-5wtRGLlTunkqtLG-D3XZjw&fp=chrome#fnp5-1-reality
+trojan://a852f226-e042-4c2e-82ba-0961c717e4b1@fnp5-2.duckdns.org:201?type=tcp&security=tls&allowInsecure=1#fnp5-2-trojan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@fnp5-2.duckdns.org:801#fnp5-2-ss
+vless://549f171e-520a-4ae8-8cbb-ae55bf600657@fnp5-2.duckdns.org:18000?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.amazon.com&pbk=6vHqwXoDYb3xhWtl-Ybnr1V-bgx1JeyjdlOJR7YcniA&fp=chrome#fnp5-2-reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZDEzYTBmYS1lNTE5LTRlYzctOWQ2NC1lM2IyZDY2YmU2NzI%3D@edwardvps.duckdns.org:48459#233boy-ss-edwardvps.duckdns.org
 vmess://eyJhZGQiOiJlZHdhcmR2cHMuZHVja2Rucy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzQ5MmFhN2YtMTNjOS00NWRlLTg0NmEtYTZiZTdhZWM0MmNhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNjAzOSIsInBzIjoiMjMzYm95LXRjcC1lZHdhcmR2cHMuZHVja2Rucy5vcmciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://07550159-b336-45d9-a229-08c77155647d@edwardfnubuntu.duckdns.org:18000?security=reality&encryption=none&pbk=u80m0g8PtIZJKc5ZPXf4ZkI2c53XixRZrbyfEDnrKTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ebay.com#fnubuntu-vless
