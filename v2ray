@@ -1,6 +1,6 @@
 trojan://97394d3a-c4f5-4068-8944-4b9641fb6e65@fnp5-1.duckdns.org:201?type=tcp&security=tls&allowInsecure=1#fnp5-1-trojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@fnp5-1.duckdns.org:801#fnp5-1-ss
-vless://2e6dc3e1-6ebd-4013-aca1-59f098d7f0e9@fnp5-1.duckdns.org:19000?encryption=none&security=reality&flow=&type=h2&sni=aws.amazon.com&pbk=b0t4rnf5g08YFjGkX1SD-5wtRGLlTunkqtLG-D3XZjw&fp=chrome#fnp5-1-reality
+vless://abf4b8e3-fe08-4bee-a442-44b9b0fd3938@fnp5-1.duckdns.org:18000?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.amazon.com&pbk=eN7ZNMc8sOwFoxomQ_Ko-HCUxPsRo0nJtFbCoT42fXo&fp=chrome#fnp5-1-reality
 trojan://a852f226-e042-4c2e-82ba-0961c717e4b1@fnp5-2.duckdns.org:201?type=tcp&security=tls&allowInsecure=1#fnp5-2-trojan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@fnp5-2.duckdns.org:801#fnp5-2-ss
 vless://549f171e-520a-4ae8-8cbb-ae55bf600657@fnp5-2.duckdns.org:18000?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.amazon.com&pbk=6vHqwXoDYb3xhWtl-Ybnr1V-bgx1JeyjdlOJR7YcniA&fp=chrome#fnp5-2-reality
