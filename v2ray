@@ -11,5 +11,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@edwardfnubuntu.duckdns.org
 trojan://58859641-fb6b-41d2-8d46-0575715f9ab7@edwardfnubuntu2.duckdns.org:201?type=tcp&security=tls&allowInsecure=1#edwardfubuntu2-trojan
 ss://YWVzLTI1Ni1nY206aG9tZXRvd24yMDEz@edwardfnubuntu2.duckdns.org:801#edwardfubuntu2-ss
 vless://2202ddf3-d43c-4536-b126-2f088c64f01f@edwardfnubuntu2.duckdns.org:18001?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=yoSncuNgFZTbS-Gn38F-7nW5qEizbT3JokaGtVhMYgI&fp=chrome#edwardfubuntu2-reality
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YXl1bmcwNDI3@rk-1.duckdns.org:801#SS-rk-1
-vless://dfa11e1c-0b9e-4fa4-ba6c-ec0fdd65489c@rk-1.duckdns.org:18001?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=HgfFB43kyLGlzjw7IK-hzIj0e1qW5Ql0ohtHzumQzGg&fp=chrome#reality-rk-1.duckdns.org
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpob21ldG93bjIwMTM=@rk-1.duckdns.org:801#RK-1-SS
+vless://dfa11e1c-0b9e-4fa4-ba6c-ec0fdd65489c@rk-1.duckdns.org:18001?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=HgfFB43kyLGlzjw7IK-hzIj0e1qW5Ql0ohtHzumQzGg&fp=chrome#RK-1-reality
